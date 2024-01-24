@@ -1,0 +1,5 @@
+com\etienne\dao\IStudentDao.class
+com\etienne\App.class
+com\etienne\util\HibernateUtil.class
+com\etienne\dao\StudentDao.class
+com\etienne\model\Student.class
